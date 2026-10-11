@@ -15,7 +15,7 @@ chardet==3.0.4
 idna==2.8
 more-itertools==10.1.0
 packaging==23.2
-pluggy==0.13.1
+pluggy==1.6.0
 py==1.11.0
 python-dateutil==2.8.2
 pytz==2023.3.post1
