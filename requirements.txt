@@ -10,7 +10,7 @@ mixer==7.1.2
 Faker==12.0.1
 Pillow==9.4.0
 attrs==23.1.0
-certifi==2023.7.22
+certifi==2023.11.17
 chardet==3.0.4
 idna==2.8
 more-itertools==10.1.0
